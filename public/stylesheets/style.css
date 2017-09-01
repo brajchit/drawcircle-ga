@@ -1,0 +1,44 @@
+body {
+  padding: 0px 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+input[type=text] {
+  width: 50px;
+}
+
+input {
+  padding: 6px;
+}
+
+body,
+html,
+input {
+  font-family: sans-serif;
+  font-size: 11pt;
+}
+
+form {
+  margin: 20px 0;
+}
+
+#plot{
+  border: 2px solid;
+  width: 590px;
+}
+
+.label-normal{
+  width: 120px
+}
+
+section input{
+  width: 80px
+}
+
+.label-select .col-md-6.left{
+  padding-top: 6px
+}
